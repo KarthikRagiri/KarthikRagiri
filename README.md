@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KarthikRagiri
+- 👀 I’m interested in Start Up's
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on new Start up's
+- 📫 How to reach me messeage me
